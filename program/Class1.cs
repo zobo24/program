@@ -10,5 +10,7 @@ namespace program
     {
         //komentar
         //brzo
+
+        //promjerna treca
     }
 }
