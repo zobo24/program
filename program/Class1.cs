@@ -9,5 +9,6 @@ namespace program
     internal class Class1
     {
         //komentar
+        //brzo
     }
 }
