@@ -12,5 +12,6 @@ namespace program
         //brzo
 
         //promjerna treca
+        //greska
     }
 }
